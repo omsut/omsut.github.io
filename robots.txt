@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omsut.github.io/HAp/sitemap.HAp.gz
