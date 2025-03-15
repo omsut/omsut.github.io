@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omsut.csgad.com/vDx/sitemap.xml.gz
